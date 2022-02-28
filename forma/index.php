@@ -3,11 +3,9 @@
 
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=500, initial-scale=1">
+
 <style>
-@viewport {
-  width: 500px;
-}
+
 body {
     background: url(/bg.jpg) no-repeat;
     overflow: scroll;
