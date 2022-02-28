@@ -5,8 +5,8 @@
 		<style>
 		body {
    		background: url(/bg.jpg);
-    	overflow: scroll;
-    	}
+    	        overflow: scroll;
+    	        }
 		form {
    		background: #ffffff;
   	 	padding: 30px;
@@ -17,18 +17,18 @@
    		border-radius: 7px;
    		box-shadow: -2px 5px 16px rgb(0 0 0 / 8%);
 		}
-        .index, .forma {
-        background: #bc2a3e;
-        width: 30%;
-        border-radius: 7px;
-        padding: 10px;
-        }
-        .add {
-        background: #bc2a3e;
-        width: 15%;
-        border-radius: 7px;
-        padding: 10px;    
-        }
+      		.index, .forma {
+        	background: #bc2a3e;
+        	width: 30%;
+        	border-radius: 7px;
+        	padding: 10px;
+        	}
+        	.add {
+        	background: #bc2a3e;
+        	width: 15%;
+        	border-radius: 7px;
+        	padding: 10px;    
+        	}
 		label {
    		display: contents;
    		font-size: 18px;
